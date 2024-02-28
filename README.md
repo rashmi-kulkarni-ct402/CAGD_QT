@@ -27,7 +27,10 @@ To use the project, run the main function in main.cpp. This will create an OpenG
 # Output
 
 1. Cube:
+https://github.com/rashmi-kulkarni-ct402/CAGD_QT/assets/158051740/e6e580d4-b68e-4c51-be47-20b55d165dc0
 
 2. Sphere:
+https://github.com/rashmi-kulkarni-ct402/CAGD_QT/assets/158051740/1cfd5f9b-e18a-40f5-bdac-0ec7d67c53dd
    
 3. RandomSHape:
+https://github.com/rashmi-kulkarni-ct402/CAGD_QT/assets/158051740/3c98234a-dffe-4d1a-8cf7-52785cb8adcd
